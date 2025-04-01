@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 🚀 About Me
 
-- **Name:** HweyTH
+- **Name:** Gia Huy Thai
 - **Interests:** Software Development, Open Source, AI/ML, Web Development
 - **Location:** 🌍 Earth
 

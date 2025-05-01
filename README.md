@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 📫 How to Reach Me
 
-- **Email:** thhuy1101@gmail.com.com
+- **Email:** thhuy1101@gmail.com
 - **LinkedIn:** [HweyTH on LinkedIn](https://www.linkedin.com/in/ghuythai/)
 
 ## 🔗 My Projects

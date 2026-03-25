@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=60&pause=1000&color=C27A4B&background=00000000&center=true&vCenter=true&width=700&height=120&lines=My+name+is;Gia+Huy+Thai;Welcome+:)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=60&duration=2500&pause=1000&color=C27A4B&background=00000000&center=true&vCenter=true&width=700&height=120&lines=My+name+is;Gia+Huy+Thai;Welcome+:)" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=99999&color=A89070&background=00000000&center=true&vCenter=true&width=500&height=30&lines=Full-Stack+Developer+·+Toronto%2C+Canada" alt="Subtitle" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=99999&color=A89070&background=00000000&center=true&vCenter=true&width=500&height=30&lines=Full-Stack+Developer+·+Toronto%2C+Canada" alt="Subtitle" />
 
 <br />
 
@@ -19,7 +19,7 @@
 <br />
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=99999&color=7A6050&background=00000000&center=true&vCenter=true&width=300&height=40&lines=——+Tech+Stack+——" alt="Tech Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=99999&color=7A6050&background=00000000&center=true&vCenter=true&width=300&height=40&lines=——+Tech+Stack+——" alt="Tech Stack" />
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 <br />
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=99999&color=7A6050&background=00000000&center=true&vCenter=true&width=300&height=40&lines=——+LeetCode+——" alt="LeetCode" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=99999&color=7A6050&background=00000000&center=true&vCenter=true&width=300&height=40&lines=——+LeetCode+——" alt="LeetCode" />
 </div>
 
 <div align="center">
@@ -48,7 +48,7 @@
 <br />
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=99999&color=7A6050&background=00000000&center=true&vCenter=true&width=300&height=40&lines=——+GitHub+Stats+——" alt="GitHub Stats" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=99999&color=7A6050&background=00000000&center=true&vCenter=true&width=300&height=40&lines=——+GitHub+Stats+——" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -62,5 +62,5 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=A89070&background=00000000&center=true&vCenter=true&width=435&height=50&lines=📍+Based+in+Toronto;Let's+build+something+cool;" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=A89070&background=00000000&center=true&vCenter=true&width=435&height=50&lines=📍+Based+in+Toronto;Let's+build+something+cool;" alt="Footer Typing SVG" />
 </div>

@@ -23,17 +23,16 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/react/C27A4B" alt="React" width="40" height="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/vite/C27A4B" alt="Vite" width="40" height="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/C27A4B" alt="Tailwind CSS" width="40" height="40" />&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/C27A4B" alt="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/python/C27A4B" alt="Python" width="40" height="40" />&nbsp;
 
   <br/><br/>
-  <img src="https://cdn.simpleicons.org/python/C27A4B" alt="Python" width="40" height="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/C27A4B" alt="FastAPI" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/react/C27A4B" alt="React" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/C27A4B" alt="Tailwind CSS" width="40" height="40" />&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/C27A4B" alt="Node.js" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/express/C27A4B" alt="Express.js" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/C27A4B" alt="FastAPI" width="40" height="40" />&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/C27A4B" alt="PostgreSQL" width="40" height="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/qgis/C27A4B" alt="QGIS" width="40" height="40" />&nbsp;
 </div>
 
 <br />

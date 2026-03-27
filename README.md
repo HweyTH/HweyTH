@@ -23,8 +23,10 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/javascript/C27A4B" alt="JavaScript" width="40" height="40" />&nbsp;
   <img src="https://cdn.simpleicons.org/python/C27A4B" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/C27A4B" alt="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/C27A4B" alt="TypeScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/dotnet/C27A4B" alt="C#" width="40" height="40" />
 
   <br/><br/>
   <img src="https://cdn.simpleicons.org/react/C27A4B" alt="React" width="40" height="40" />&nbsp;

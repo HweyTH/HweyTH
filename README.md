@@ -54,8 +54,6 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=HweyTH&show_icons=true&hide_border=true&hide_title=true&bg_color=1C1410&text_color=E8D5B7&icon_color=C27A4B" alt="GitHub Stats" />
-  &nbsp;
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HweyTH&layout=compact&hide_border=true&langs_count=5&hide_title=true&bg_color=1C1410&text_color=E8D5B7" alt="Top Languages" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HweyTH&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1C1410&text=E8D5B7&dates=A89070&ring=C27A4B&currStreakNum=C27A4B&sideNums=E8D5B7&currStreakLabel=A89070&fire=C27A4B" alt="GitHub Streak" />

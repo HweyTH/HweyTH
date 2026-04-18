@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=60&duration=2500&pause=1000&color=C27A4B&background=00000000&center=true&vCenter=true&width=700&height=120&lines=My+name+is;Gia+Huy+Thai;Welcome+to+my+profile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=60&duration=2500&pause=1000&color=C27A4B&background=00000000&center=true&vCenter=true&width=700&height=120&lines=My+name+is;Gia+Huy+Thai;Welcome+:)))" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=99999&color=A89070&background=00000000&center=true&vCenter=true&width=500&height=30&lines=Full-Stack+Developer+·+Toronto%2C+Canada" alt="Subtitle" />
 

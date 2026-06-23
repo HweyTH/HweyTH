@@ -26,7 +26,7 @@
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/typescript/C27A4B" alt="TypeScript" width="40" />
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/dotnet/C27A4B" alt="C#" width="40" />
+<img src="https://cdn.simpleicons.org/go/C27A4B" alt="C#" width="40" />
 
 <br /><br />
 
